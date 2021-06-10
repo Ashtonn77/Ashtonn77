@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, My name is Ashton 👋
 
-<!--
-**Ashtonn77/Ashtonn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on being the best version of me that I can be
+- 🌱 I’m currently learning Machine Learning & Artificial Intelligence
+- 👯 I’m looking to collaborate on anything that is going to help me grow as a developer, and anything that will help others grow as well
+- 🤔 I’m looking for help with Discrete Optimization
+- 💬 Ask me about Java, Algorithms and Data Structures or anything tech related
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashtonn77/)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Poetry is an outlet for our emotions...and code is poetry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ashtonn77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
