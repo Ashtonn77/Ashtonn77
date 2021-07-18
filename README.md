@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with Discrete Optimization
 - 💬 Ask me about Java, Algorithms and Data Structures or anything tech related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashtonn77/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Poetry is an outlet for our emotions...and code is poetry
+- ⚡ Fun fact: Poetry is an outlet for our emotions...coding is poetry
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashtonn77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
